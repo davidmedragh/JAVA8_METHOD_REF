@@ -6,7 +6,7 @@ package com.dmedragh.java8Tut;
 import java.util.Comparator;
 
 /**
- * @author yacin
+ * @author dmedragh
  *
  */
 public class ComparateurDePersonne implements Comparator {
